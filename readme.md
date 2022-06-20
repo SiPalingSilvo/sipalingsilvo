@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/979598946907336704/988300358428278805/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720_1.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Silvo</h1>
 <h3 align="center">A Newbie programer. Making discord bots and asakin scripts</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
